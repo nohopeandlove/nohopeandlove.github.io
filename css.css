@@ -1,0 +1,118 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Century Gothic";
+}
+
+header {
+    height: 2880px;
+    background-image: url("img/head/Фон.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.about {
+    display: flex;
+    justify-content: space-between;
+}
+
+.iсons {
+    padding-left: 440px;
+    padding-top: 244px;
+
+}
+
+.image {
+    padding-right: 60px;
+}
+
+.info {
+    padding-right: 270px;
+    padding-top: 244px;
+}
+
+.info a{
+    font-family: "Century Gothic";
+    font-size: 83pt;
+    text-decoration: none;
+    color: white;
+    padding-right: 120px;
+}
+
+.info a:hover {
+    text-shadow:0px 25px 8px #dbb3e5;
+}
+
+.logo {
+    padding-left: 2314px;
+    padding-top: 430px;
+}
+
+.description {
+    height: 1276px;
+    background-color: white;
+}
+
+.name {
+    font-family: "Century Gothic";
+    text-shadow: 0px 0px 50px #ec008c;
+    font-size: 174pt;
+    color: white;
+    text-align: center;
+    padding-top: 155px;
+}
+
+.pod {
+    color: #9b979d;
+    font-size: 93pt;
+    padding-left: 223px;
+    padding-right: 265px;
+    padding-top: 220px;
+}
+
+.pod1{
+    padding-top: 165px;
+    text-align: center;
+    color: #9b979d;
+    font-size: 100pt;
+}
+
+menu {
+    height: 2168px;
+}
+
+.columns {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 250px;
+    padding-left: 564px;
+    padding-right: 213px;
+}
+
+.os {
+    padding-left: 300px;
+}
+
+.op {
+    text-decoration: none;
+    color: #808080;
+    font-size: 85pt;
+    padding-top: 80px;
+    width: auto;
+    height: 150px;
+    display: block;
+    white-space: nowrap;
+    position: relative;
+    right: 250px;
+}
+
+.op:hover {
+    text-shadow:0 25px 8px #dbb3e5;
+}
+
+.gallery{
+    padding-top: 340px;
+}
+
+
+
